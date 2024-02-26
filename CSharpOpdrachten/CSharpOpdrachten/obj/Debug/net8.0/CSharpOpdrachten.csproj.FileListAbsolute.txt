@@ -1,0 +1,14 @@
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.exe
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.deps.json
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.runtimeconfig.json
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.dll
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\bin\Debug\net8.0\CSharpOpdrachten.pdb
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.GeneratedMSBuildEditorConfig.editorconfig
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfoInputs.cache
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.AssemblyInfo.cs
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.csproj.CoreCompileInputs.cache
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.dll
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\refint\CSharpOpdrachten.dll
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.pdb
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\CSharpOpdrachten.genruntimeconfig.cache
+C:\MA\periode 3\M3\PROG\CSharpOpdrachten\CSharpOpdrachten\obj\Debug\net8.0\ref\CSharpOpdrachten.dll
