@@ -1,0 +1,17 @@
+
+public class PlayerContext [een klasse is als een objectconstructor, of een "blauwdruk" voor het maken van objecten.]
+{
+    public Room room; 
+    public PlayerSprite player; [sprite]
+    internal bool noDoor = false; [boolean]
+    internal int camX; [integer gehele nummer]
+    internal int camY; [integer]
+    internal readonly KeyBind[] keysdown = new KeyBind[5]; [array van keybind]
+    internal int lastKeyDown; [integer]	
+    internal Bitmap buffer; [Bitmap is een object dat wordt gebruikt om te werken met afbeeldingen die zijn gedefinieerd door pixelgegevens]
+    internal Graphics g; [The Graphics class provides methods for drawing objects to the display device]
+    internal int totalGoldPicked; [integer]
+    internal readonly int index; [integer]
+    internal string name; [string]
+    internal float runTime = 3; [gebruiken wanneer je een nummer met 6 tot 7 decimaal nodig hebt]
+}

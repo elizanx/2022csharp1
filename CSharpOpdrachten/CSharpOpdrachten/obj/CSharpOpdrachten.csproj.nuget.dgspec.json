@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MA\\periode 3\\M3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
+    "C:\\MA\\periode 3\\M3\\PROG\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {}
   },
   "projects": {
-    "C:\\MA\\periode 3\\M3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
+    "C:\\MA\\periode 3\\M3\\PROG\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MA\\periode 3\\M3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectUniqueName": "C:\\MA\\periode 3\\M3\\PROG\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "projectName": "CSharpOpdrachten",
-        "projectPath": "C:\\MA\\periode 3\\M3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
+        "projectPath": "C:\\MA\\periode 3\\M3\\PROG\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\CSharpOpdrachten.csproj",
         "packagesPath": "C:\\Users\\eliza\\.nuget\\packages\\",
-        "outputPath": "C:\\MA\\periode 3\\M3\\PROG\\CSharpOpdrachten\\CSharpOpdrachten\\obj\\",
+        "outputPath": "C:\\MA\\periode 3\\M3\\PROG\\2022csharp1\\CSharpOpdrachten\\CSharpOpdrachten\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eliza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
